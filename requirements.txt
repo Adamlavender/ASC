@@ -1,10 +1,6 @@
 affine==2.3.0
 alabaster==0.7.12
 alchemy==20.5
-anaconda-client==1.7.2
-anaconda-navigator==1.9.12
-anaconda-project==0.8.3
-anvil-uplink==0.3.32
 appdirs==1.4.4
 applaunchservices==0.2.1
 appnope==0.1.0
