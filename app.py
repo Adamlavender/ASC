@@ -1,6 +1,5 @@
 from flask import Flask, render_template, url_for, request, redirect,flash,send_file
 from flask_sqlalchemy import SQLAlchemy
-from flask_bootstrap import Bootstrap
 from flask_wtf import FlaskForm, Form
 from flask_wtf.csrf import CSRFProtect
 from wtforms import StringField, TextField, SubmitField,PasswordField, validators,BooleanField,DateField,SelectField,DateTimeField,TimeField,SelectMultipleField,DecimalField,RadioField
